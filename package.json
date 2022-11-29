@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@ng-bootstrap/ng-bootstrap": "^13.1.0",
+    "angular": "^1.8.3",
+    "bootstrap": "^5.2.2",
+    "font-awesome": "^4.7.0"
+  }
+}
